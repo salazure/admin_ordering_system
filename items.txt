@@ -1,0 +1,159 @@
+Gourmet Bao Buns:                                                                                                HEADING:HEADING:HEADING
+Gourmet Bao - Karaage Crispy Chicken with Asian Slaw & Sweet Mayo Drizzle:                                       7.50:0:0
+Gourmet Bao - Peking Duck with Spring Onion, Cucumber & Plum Sauce:                                              7.50:0:0
+Gourmet Bao - Tempura Prawn with Asian Slaw & Wasabi Mayo:                                                       7.50:0:0
+Gourmet Bao - Marinated Tofu with Asian Slaw & Plum Sauce (VEGAN):                                               7.50:0:0
+Gourmet Brioche Sliders:                                                                                         HEADING:HEADING:HEADING
+Gourmet Brioche Slider - Smoky Tennessee Bourbon Pulled Pork with Creamy Slaw:                                   7.50:0:0
+Gourmet Brioche Slider - Wagyu Beef Burger with Cheese, Lettuce, Tomato & Relish (H):                            7.50:0:0
+Gourmet Brioche Slider - Crispy Panko Crumbed Chicken Schnitzel with Tomato, Lettuce & Sweet Chilli Mayo:        7.50:0:0
+Gourmet Brioche Slider - Veggie Burger with Lettuce, Tomato & Relish (V):                                        7.50:0:0
+Gourmet Gluten-Free Slider - Smoky Tennessee Bourbon Pulled Pork with Creamy Slaw (GF):                          8.00:0:0
+Gourmet Gluten-Free Slider - Wagyu Beef Burger with Cheese, Lettuce, Tomato & Relish (GF/H):                     8.00:0:0
+Gourmet Gluten-Free Slider - Grilled Chicken with Tomato, Lettuce & Sweet Chilli Mayo (GF):                      8.00:0:0
+Gourmet Gluten-Free Slider - Veggie Burger with Lettuce, Tomato & Relish (GF/V):                                 8.00:0:0
+Gourmet Slider - Veggie Burger with Lettuce, Tomato & Relish (VEGAN):                                            7.50:0:0
+Gourmet Sandwiches/Wraps/Baguettes/Croissants/Bagels:                                                            HEADING:HEADING:HEADING
+Gourmet Sandwich - Assorted Fillings:                                                                            11.00:0:0
+Gourmet Sandwich - Assorted Fillings (GF):                                                                       13.00:0:0
+Gourmet Wrap - Assorted Fillings:                                                                                12.00:0:0
+Gourmet Wrap - Assorted Fillings (GF):                                                                           14.00:0:0
+Gourmet Deluxe Baguette Sub - Assorted Fillings:                                                                 12.00:0:0
+Gourmet Deluxe Roll - Assorted Fillings (GF):                                                                    14.00:0:0
+Gourmet Large Croissant - Assorted Fillings :                                                                    12.00:0:0
+Gourmet Small Croissant - Assorted Fillings :                                                                    8.00:0:0
+Gourmet Small Bagel - Assorted Fillings:                                                                         8.00:0:0
+Gourmet Small Bagel - Assorted Fillings (GF):                                                                    10.00:0:0
+Gourmet Lunch:                                                                                                   HEADING:HEADING:HEADING
+Hot Roast Chicken & Gravy Roll with Premium Homemade Soup:                                                       20.00:0:0
+Hot Buffet - Pasta Bake, Chef's Garden Salad & Freshly Baked Dinner Roll with Butter:                            25.00:0:0
+Hot Buffet - Roast Chicken, Roast Vegetables, Garden Peas & Freshly Baked Dinner Roll with Butter:               30.00:0:0
+Mexican Poke Bowl - Grilled Chicken (GF) :                                                                       30.00:0:0
+Gourmet Breakfast / Morning Tea / Afternoon Tea / Sweet Items:                                                   HEADING:HEADING:HEADING
+Gourmet Breakfast Tart:                                                                                          9.00:0:0
+Gourmet Breakfast Burrito:                                                                                       12.00:0:0
+Gourmet Breakfast Brioche Slider:                                                                                7.50:0:0
+Gourmet Breakfast Roll:                                                                                          11.00:0:0
+Almond-Soaked Chia Overnight Oats with Berry Compote:                                                            6.00:0:0
+Mango & Greek Yoghurt Parfait:                                                                                   6.00:0:0
+Buttermilk Scones with Jam & Cream (two halves):                                                                 6.00:0:0
+Jam & Cream Butterfly Cakes:                                                                                     6.00:0:0
+Homemade Sweet Muffin:                                                                                           6.00:0:0
+Decadent Homemade Fudgie Belgian Chocolate Brownie (GF):                                                         6.00:0:0
+Fresh-Baked Small Danish Pastry:                                                                                 6.00:0:0
+Fresh-Baked Banana Bread:                                                                                        6.00:0:0
+Fresh Baked Muesli Slice:                                                                                        6.00:0:0
+Caramelised Onion & Feta Cheese Tarts (V):                                                                       5.50:0:0
+Homemade Pork & Fennel Sausage Rolls with Chunky Tomato Relish (H):                                              5.50:0:0
+Homemade Spinach & Ricotta Pastry Rolls (V/H):                                                                   5.50:0:0
+Homemade Mini Pies - Beef Brisket & Onion Gravy (H):                                                             5.50:0:0
+Homemade Mini Pies - Free-Range Chicken & Leek (H):                                                              5.50:0:0
+Fire-Roasted Red Pepper & Provolone Arancini with Garlic Aioli (V/H):                                            5.50:0:0
+Homemade Falafel Balls with Yoghurt Tahini (GF):                                                                 5.50:0:0
+Rice Paper Rolls:                                                                                                HEADING:HEADING:HEADING
+Vietnamese Rice Paper Roll with Sweet Chilli Dipping Sauce (GF) - Chicken:                                       5.50:0:0
+Vietnamese Rice Paper Roll with Sweet Chilli Dipping Sauce (GF) - Duck:                                          5.50:0:0
+Vietnamese Rice Paper Roll with Sweet Chilli Dipping Sauce (GF) - Sriracha Pork:                                 5.50:0:0
+Vietnamese Rice Paper Roll with Sweet Chilli Dipping Sauce (GF) - Prawn:                                         5.50:0:0
+Vietnamese Rice Paper Roll with Sweet Chilli Dipping Sauce (GF) - Beef:                                          5.50:0:0
+Vietnamese Rice Paper Roll with Sweet Chilli Dipping Sauce (GF) - Vegetarian (VEGAN):                            5.50:0:0
+Sushi:                                                                                                           HEADING:HEADING:HEADING
+Seaweed Wrapped White Rice Sushi (Maki) - Long Roll Cut into 8 Pieces (GF) - Teriyaki Beef:                      18.00:0:0
+Seaweed Wrapped White Rice Sushi (Maki) - Long Roll Cut into 8 Pieces (GF) - Teriyaki Chicken:                   18.00:0:0
+Seaweed Wrapped White Rice Sushi (Maki) - Long Roll Cut into 8 Pieces (GF) - Chicken Schnitzel:                  18.00:0:0
+Seaweed Wrapped White Rice Sushi (Maki) - Long Roll Cut into 8 Pieces (GF) - Cooked Tuna:                        18.00:0:0
+Seaweed Wrapped White Rice Sushi (Maki) - Long Roll Cut into 8 Pieces (GF) - Spicy Tuna:                         18.00:0:0
+Seaweed Wrapped White Rice Sushi (Maki) - Long Roll Cut into 8 Pieces (GF) - Prawn California:                   18.00:0:0
+Seaweed Wrapped White Rice Sushi (Maki) - Long Roll Cut into 8 Pieces (GF) - Smoked Salmon:                      18.00:0:0
+Seaweed Wrapped White Rice Sushi (Maki) - Long Roll Cut into 8 Pieces (GF) - Vegetarian (VEGAN):                 18.00:0:0
+Seaweed Wrapped White Rice Sushi (Maki) - Long Roll Cut into 8 Pieces (GF) - Wakame (VEGAN):                     18.00:0:0
+Seaweed Wrapped White Rice Sushi (Maki) - Long Roll Cut into 8 Pieces (GF) - Avocado & Cucumber (VEGAN):         18.00:0:0
+Gourmet Grazing Boxes & Platters:                                                                                HEADING:HEADING:HEADING
+Gourmet Guru Signature Grazing Box - Large Grazing Box Size:                                                     120.00:0:0
+Gourmet Guru Signature Grazing Box - Extra Large Grazing Box Size:                                               180.00:0:0
+Gourmet Fruit Platter - Small Grazing Box Size (GF/V):                                                           40.00:0:0
+Gourmet Fruit Platter - Large Grazing Box Size (GF/V):                                                           80.00:0:0
+Gourmet Fruit Platter - Extra Large Grazing Box Size (GF/V):                                                     120.00:0:0
+Gourmet Cakes & Slices Box - Small Grazing Box Size (V):                                                         80.00:0:0
+Gourmet Cakes & Slices Box - Large Grazing Box Size (V):                                                         140.00:0:0
+Gourmet Cakes & Slices Box - Extra Large Grazing Box Size (V):                                                   200.00:0:0
+Gourmet Savoury Cheese & Fruit Platter - Small Grazing Box Size (V):                                             60.00:0:0
+Gourmet Savoury Cheese & Fruit Platter - Large Grazing Box Size (V):                                             120.00:0:0
+Gourmet Savoury Cheese & Fruit Platter - Extra Large Grazing Box Size (V):                                       180.00:0:0
+Healthy Dip & Vegetable Stick Platter - Small Grazing Box Size (V):                                              50.00:0:0
+Healthy Dip & Vegetable Stick Platter - Large Grazing Box Size (V):                                              100.00:0:0
+Healthy Dip & Vegetable Stick Platter - Extra Large Grazing Box Size (V):                                        150.00:0:0
+Gourmet Catering Packages:                                                                                       HEADING:HEADING:HEADING
+Lunch Package - Option # 1:                                                                                      17.50:0:0
+Lunch Package - Option # 2:                                                                                      24.50:0:0
+Lunch Package - Option # 3:                                                                                      31.00:0:0
+Morning or Afternoon Tea + Lunch Package - Option # 1:                                                           29.50:0:0
+Morning or Afternoon Tea + Lunch Package - Option # 2:                                                           32.00:0:0
+Morning or Afternoon Tea + Lunch Package - Option # 3:                                                           37.50:0:0
+Morning Tea, Lunch & Afternoon Tea Package - Option # 1:                                                         39.50:0:0
+Morning Tea, Lunch & Afternoon Tea Package - Option # 2:                                                         47.50:0:0
+Gourmet Individual Lunch Boxes:                                                                                  HEADING:HEADING:HEADING
+Lunch for One - Extra Small:                                                                                     25.00:0:0
+Lunch for One - Small + Beverage:                                                                                30.00:0:0
+Lunch for One - Deluxe Small + Beverage:                                                                         35.00:0:0
+Lunch for One - Gourmet:                                                                                         40.00:0:0
+Breakfast for One - Gourmet:                                                                                     45.00:0:0
+Charcuterie Mini Box for One:                                                                                    17.00:0:0
+Gourmet Finger Food - Pastries & Pizza:                                                                          HEADING:HEADING:HEADING
+Caramelised Onion & Feta Cheese Tarts (V):                                                                       5.50:0:0
+Homemade Pork & Fennel Sausage Rolls with Chunky Tomato Relish (H):                                              5.50:0:0
+Homemade Spinach & Ricotta Pastry Rolls (V/H):                                                                   5.50:0:0
+Homemade Vegetarian Samosa (V/H):                                                                                5.50:0:0
+Homemade Cornish Pasty with Chunky Tomato Relish (H):                                                            5.50:0:0
+Homemade Mini Pies - Beef Brisket & Onion Gravy (H):                                                             5.50:0:0
+Homemade Mini Pies - Free-Range Chicken & Leek (H):                                                              5.50:0:0
+Mini Pizza - Tomato, Mozzarella & Fresh Basil (V/H):                                                             5.50:0:0
+Mini Pizza - Pepperoni & Mozzarella (H):                                                                         5.50:0:0
+Gourmet Finger Food - From The Grill:                                                                            HEADING:HEADING:HEADING
+Indonesian-Style Chicken Satay Skewers with Spicy Peanut Dipping Sauce (GF/H):                                   6.50:0:0
+Chicken Fillet Mignon - Grilled Chicken Tenderloins wrapped in Wood-Smoked Bacon served with Basil Pesto (GF/H): 6.50:0:0
+Gourmet Finger Food - Arancini:                                                                                  HEADING:HEADING:HEADING
+Fire-Roasted Red Pepper & Provolone Arancini with Garlic Aioli (V/H):                                            5.50:0:0
+San Daniele Prosciutto & Pistachio Pesto Arancini with Garlic Aioli (H):                                         5.50:0:0
+Italian Bolognese & Mozzarella Arancini with Garlic Aioli (H):                                                   5.50:0:0
+Gourmet Finger Food - Meatballs & Falafel:                                                                       HEADING:HEADING:HEADING
+Spicy Thai Chicken Balls with Sweet Chilli & Coriander (H):                                                      5.50:0:0
+Teriyaki Beef Meatballs with Toasted Sesame Seeds (H):                                                           5.50:0:0
+Homemade Falafel Balls with Yoghurt Tahini (GF):                                                                 5.50:0:0
+Homemade Falafel Balls with Hommus (GF/VEGAN):                                                                   5.50:0:0
+Gourmet Finger Food - Crumbed to Perfection:                                                                     HEADING:HEADING:HEADING
+Panko Crumbed Chicken Strips with Honey Mustard Mayonnaise Dipping Sauce (H):                                    5.50:0:0
+Panko Crumbed Halloumi Chips with Peppered Apple & Lemon Compote (V/H):                                          5.50:0:0
+Tempura Fish Bites with Homemade Caper & Dill Sauce (H):                                                         5.50:0:0
+GOURMET DELUXE - Rosemary Crumbed Lamb Cutlet with Minted Yoghurt ($11.00 per piece) (H):                        11.00:0:0
+Gourmet Finger Food - Bite-Sized Delights:                                                                       HEADING:HEADING:HEADING
+Savoury Mini Pancake topped with Lime & Caper Infused Creme Fraiche & Smoked Salmon Rosett:                      5.50:0:0
+Mini Potato Rosti topped with Creme Fraiche, Chives & Semi Sun-Dried Tomatoes (V):                               5.50:0:0
+Roasted Pumpkin & Three Cheese Frittata (GF/V):                                                                  5.50:0:0
+Traditional Peking Duck Pancake with Cucumber, Spring Onion & Plum Sauce:                                        5.50:0:0
+Beverages:                                                                                                       HEADING:HEADING:HEADING
+Chilled 330ml San Pellegrino Sparkling Mineral Water (can):                                                      4.00:0:0
+Chilled 375ml Bundaberg Brewed Drink (bottle):                                                                   4.00:0:0
+Chilled 600 ml Water (plastic bottle):                                                                           4.00:0:0
+Gourmet Guru Hire:                                                                                               HEADING:HEADING:HEADING
+Gourmet Guru Hire - Wine Glasses (includes cleaning):                                                            1.50:0:0
+Gourmet Guru Hire - Champagne Flutes (includes cleaning):                                                        1.50:0:0
+Gourmet Guru Hire - Water Glasses (includes cleaning):                                                           1.50:0:0
+Gourmet Guru Hire - Dinner Plates (includes cleaning):                                                           1.50:0:0
+Gourmet Guru Hire - Side Plates (includes cleaning):                                                             1.50:0:0
+Gourmet Guru Hire - Dessert Bowl (includes cleaning):                                                            1.50:0:0
+Gourmet Guru Hire - Knives (includes cleaning):                                                                  1.50:0:0
+Gourmet Guru Hire - Forks (includes cleaning):                                                                   1.50:0:0
+Gourmet Guru Hire - Dessert Spoons (includes cleaning):                                                          1.50:0:0
+Gourmet Guru Hire - Teaspoons (includes cleaning):                                                               1.50:0:0
+Gourmet Guru Hire - Trestle Tables (no minimum):                                                                 10.00:0:0
+Gourmet Guru Hire - Black Tablecloths (no minimum):                                                              5.00:0:0
+Gourmet Guru Hire - Large Galvanised Metal Drink Tubs (no minimum):                                              10.00:0:0
+Gourmet Guru Extras:                                                                                             HEADING:HEADING:HEADING
+Gourmet Guru Extras - Bag of Ice:                                                                                12.00:0:0
+Gourmet Guru Extras - Quality Sugarcane Plates & Two-Ply White Cocktail Serviettes (125 of each):                30.00:0:0
+Gourmet Guru Staff (subject to availability):                                                                    HEADING:HEADING:HEADING
+Gourmet Guru Wait Staff (3 hours):                                                                               180.00:0:0
+Gourmet Guru Wait Staff (extra hours per staff):                                                                 60.00:0:0
+Gourmet Guru Bar Staff (3 hours):                                                                                180.00:0:0
+Gourmet Guru Bar Staff (extra hours per staff):                                                                  60.00:0:0
